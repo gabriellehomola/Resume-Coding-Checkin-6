@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Resume </title>
+
+</head>
+
+<meta charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+
+<style>
+body {
+ font-size:100%;
+ font-family: 'Poiret One', cursive;
+}
+#top {
+ font-size: 2em;
+ font-family: Georgia, sans-serif;
+}
+#top h1{
+ font-size: 2em;
+}
+#bottom {
+ font-size: .5em;
+}
+#doubleTest1 {
+  font-size:2em;
+}
+#normal {
+  font-size:.5em;
+}
+#customFont {
+  font-family: Georgia, sans-serif;
+}
+</style>
+</head>
+
+<body>
+
+
+<div id="header">
+
+<p id="name">Gabrielle Homola</p>
+
+         <a href="mailto:gh564888@sju.edu" target="_blank"><p id="email">gh564888@sju.edu</p></a>
+
+         <p id="contact">8452226278</p>
+
+     </div>
+
+     <div class="left">
+     
+     </div>
+     
+     <div class="right">
+
+<h3>Expierience and Employment</h3>
+
+            <p>
+
+            <ul>
+
+                <li>Brownstein Group Intern</li>
+
+                <li>Garrison Golf Course</li>
+
+                <li>Frozen Berry Icecream </li>
+
+                <li>Stonecrop Garden Intern</li></ul>
+
+            </p>
+
+<h3>Volunteer and Community Work</h3>
+            
+            <p>
+            
+            <ul>
+
+            	<li>Serve homeless at St. Columba’s Homeless Shelter</li>
+
+            	<li>Competed internationally in Irish Step Dance competitions. Represented the Kelly Oster Dance School at the North American Nationals, All Ireland Nationals, Great Britain Championships, Mid- Atlantic Regionals. 2004-2011</li>
+
+            	<li>Performed for fundraisers attended by former New York Senator Vincent Liebell and former New York Governor George Pataki.</li>
+            	
+            	<li>Performed for charities to include, senior citizen homes, Relay for Life, and Girl Scouts of America.</li>
+
+            </p>
+
+<h4>Skills</h4>
+            
+            <p>
+            
+            <ul>
+
+                <li>Proficient in Social Media Applications and WordPress. </li>
+
+                <li>Computer Savvy on Mac, Windows and Microsoft applications. </li>
+
+            </p>
+
+<h3>Educational Qualifications</h3>
+
+            <p>
+            
+            <ul>
+
+            <li>Communications Major:</li>
+
+            <li>Saint Joseph's University 2015</li>
+            
+            </p>
+
+</head>                    
